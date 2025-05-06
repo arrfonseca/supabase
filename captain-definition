@@ -1,0 +1,5 @@
+{
+  "schemaVersion": 2,
+  "dockerComposeFilePath": "./docker/docker-compose.yml",
+  "captainVersion": "1.10.0"
+}
